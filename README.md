@@ -2,8 +2,8 @@
 
 Установка (Claude Code и 18+ агентов):
 ```bash
-npx skills add <owner>/agent-skills --skill red-prosecutor
-npx skills add <owner>/agent-skills --skill yt-factcheck
+npx skills add d08153399-bot/agent-skills --skill red-prosecutor
+npx skills add d08153399-bot/agent-skills --skill yt-factcheck
 ```
 
 - **red-prosecutor** — adversarial-проверка итогового текста свежим контекстом перед выдачей: логика, противоречия, правовые уязвимости — то, что не ловит формальная проверка. Найдёт ошибку до клиента.
